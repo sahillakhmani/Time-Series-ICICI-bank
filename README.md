@@ -57,23 +57,9 @@ Both models provided robust forecasts, with Holt-Winters Exponential Smoothing s
 To set up the environment, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/icici-stock-forecasting.git
-cd icici-stock-forecasting
-pip install -r requirements.txt
+git clone https://github.com/sahillakhmani/Time-Series-ICICI-bank.git
+cd Time-Series-ICICI-bank
 ```
-
-## How to Run
-
-To replicate the analysis and models, execute the Jupyter notebooks located in the `notebooks/` folder:
-
-```bash
-jupyter notebook
-```
-
-Recommended order for running the notebooks:
-1. `data_preprocessing.ipynb`
-2. `exploratory_data_analysis.ipynb`
-3. `forecasting_models.ipynb`
 
 ## Report
 
@@ -86,8 +72,8 @@ Contributions and suggestions are welcome. Please submit a pull request or open 
 ## Contact
 
 For further inquiries or to discuss the project, please reach out via:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: sahill@cmi.ac.in or sahillakhmani5@gmail.com
+- **LinkedIn**: [Sahil Lakhmani](https://www.linkedin.com/in/sahil-lakhmani/)
 
 ---
 
